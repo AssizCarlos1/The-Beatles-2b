@@ -1,0 +1,25 @@
+.titulo {
+    text-align: center;
+}
+
+.imagem-centralizada {
+    display: block;
+    margin: auto;
+}
+
+h1 {
+    font-size: x-large;
+    color: darkslategrey;
+}
+
+h2 {
+   font-size: larger;
+   font-family: 'Segoe UI'; 
+   color: rgb(55, 77, 77);
+}
+
+h3 {
+    font-size: small;
+    font-family: Ubuntu;
+    color: black;
+}
