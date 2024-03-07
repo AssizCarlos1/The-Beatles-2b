@@ -1,5 +1,7 @@
 .titulo {
+    font-size: 10px;
     text-align: center;
+    color: brown;
 }
 
 .cabecalho {
@@ -13,6 +15,7 @@
     display: block;
     margin: auto;
 }
+
 
 h1 {
     font-size: x-large;
