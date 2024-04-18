@@ -1,1 +1,1 @@
-prompt(insira seu nome)
+alert('insira seu nome');
