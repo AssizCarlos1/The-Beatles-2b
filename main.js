@@ -1,4 +1,4 @@
 var nome = prompt('Informe seu nome:');
 
-console.log('Bem vindo ao Site ' + nome);
-console.log(nome)
+alert('Bem vindo ao Site ' + nome);
+alert(nome)
