@@ -1,3 +1,3 @@
-let nome=console.log(prompt('Informe seu nome:'));
+var nome = console.log(prompt('Informe seu nome:'));
 
-console.log("Ola seja bem vindo :" + nome);
+console.log('Bem vindo ao Site ${nome}');
