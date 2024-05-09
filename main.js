@@ -1,3 +1,3 @@
-var nome = prompt('Informe seu nome:');
+var nome = prompt('Informe seu NOME:');
 
 prompt(nome)
